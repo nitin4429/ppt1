@@ -1,0 +1,34 @@
+Q1. The declaration is not an HTML tag. It is an "information" to the browser about what document type to expect.
+
+In HTML 5, the declaration is simple:
+
+<!DOCTYPE html>
+
+Q2.The core characteristic of a semantic element is that it clearly communicated its meaning to both the developer and the browser. These elements clearly define its content. 
+
+    The are several advantages of using semantics tags in HTML:
+
+     The semantic HTML tags help the search engines and other user devices to determine the importance and context of web pages.
+     The pages made with semantic elements are much easier to read.
+     It has greater accessibility. It offers a better user experience
+
+Q3.HTML tag is just opening or closing entity. For example:
+
+<p> and </p> are called HTML tags
+
+HTML element encompasses opening tag, closing tag, content (optional for content-less tags) Eg:
+
+<p>This is the content</p> : This complete thing is called a HTML element
+
+Q6.HTML 5 is developed to grant the developers a means to build up more flexible, powerful and efficient applications.
+   It overcomes the lacking issues related to HTML 4 and brings in many new tags and enhancements for a broad range of 
+   features including form controls, APIs, multimedia, structure, database support and faster processing.
+
+Q8. The difference is simple if you want to add an image in document you have to use < img > tag.
+    The < figure > tag is used to display the image with self-explanatory about the image in the document. 
+
+Q9.  HTML Tags: Tags are the starting and ending parts of an HTML element. They begin with < symbol and end with 
+     > symbol. Whatever written inside < and > are called tags.
+
+     HTML Attributes: It is used to define the character of an HTML element. It always placed in the opening tag of an element.
+     It generally provides additional styling (attribute) to the element.   
